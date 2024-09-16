@@ -1,5 +1,6 @@
 # Calculadora de IMC
 Menu creado con un do-while y que alberga un switch en su interior realizar las distintas operaciones que se le puede pedir.
+
 ![image](https://github.com/user-attachments/assets/684db2fe-b472-445b-b7f4-fb3c0b2cd5af)
 
 ## Opción 1
